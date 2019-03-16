@@ -1,7 +1,6 @@
 # Gondapay
 The Laravel 5 Package for Indian Payment Gateways. Currently supported gateway: <a href="http://www.ccavenue.com/">CCAvenue</a>, <a href="https://www.payumoney.com/">PayUMoney</a>, <a href="https://www.ebs.in">EBS</a>, <a href="http://www.citruspay.com/">CitrusPay</a> ,<a href="https://pay.mobikwik.com/">ZapakPay</a> (Mobikwik), <a href="http://mocker.in">Mocker</a>
 
-<a href="https://github.com/Rajagonda/gondapay/tree/laravel4">For Laravel 4.2 Package Click Here</a>
 
 <h2>Installation</h2>
 <b>Step 1:</b> Install package using composer
